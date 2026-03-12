@@ -1,4 +1,12 @@
 ## Hi there 👋
+<a href="https://www.linkedin.com/in/kushalbhanot/"><img src="https://github.com/KushalBhanot/KushalBhanot/blob/master/Banner_Jun21.png" width="100%"></a>
+
+#
+- 👨🏻‍💻 Working on some projects
+- 📖 Currently reading The Almanack of Naval Ravikant by Eric Jorgenson
+- 🤝 Open to full-time roles
+- ⚡ Fun fact: I'm a [mobile photographer](https://instagram.com/kushal.bhanot/)
+- 
 
 <!--
 **washxcode/washxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
